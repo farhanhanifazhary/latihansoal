@@ -63,7 +63,6 @@ const quizData = [
             question: "13. Apa yang menentukan berapa banyak bit yang dapat ditransfer sekaligus di data bus?",
             options: { a: "Panjang bus", b: "Lebar bus (width)", c: "Kecepatan clock", d: "Bahan pembuat bus" },
             answer: "b"
-[cite_start],"instructions": "The number of lines is referred to as the width of the data bus[cite: 584]. [cite_start]The number of lines determines how many bits can be transferred at a time[cite: 585]."
         },
         {
             question: "14. Bus apa yang digunakan untuk menunjuk sumber atau tujuan data di data bus?",
