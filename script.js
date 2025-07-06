@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        scoreContainer.innerHTML = "Score: " + score / quizData.length;
+        scoreContainer.innerHTML = "Score: " + score * 100 / quizData.length;
         resultContainer.innerHTML = `Betul: ${score} dari ${quizData.length}`;
         submitBtn.disabled = true;
         submitBtn.style.display = 'none';
