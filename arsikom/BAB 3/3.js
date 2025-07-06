@@ -45,7 +45,7 @@ const quizData = [
             answer: "c"
         },
         {
-            question: "00.  Bus yang mengirim sinyal perintah dan pewaktuan adalah...",
+            question: "10.  Bus yang mengirim sinyal perintah dan pewaktuan adalah...",
             options: { a: "Data Bus", b: "Address Bus", c: "System Bus", d: "Control Bus" },
             answer: "d"
         },
