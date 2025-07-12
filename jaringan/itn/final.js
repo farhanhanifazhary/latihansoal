@@ -1,7 +1,7 @@
 const quizData = [
         // Data dari srwe.txt
         // 33
-        { question: "What is a characteristic of the LLC sublayer?", answers: ["It places information in the frame that allows multiple Layer 3 protocols to use the same network interface and media.", "It provides the logical addressing required that identifies the device.", "It is responsible for media access control.", "It provides delimitation of data according to the physical signaling requirements of the medium."], correct: "It places information in the frame that allows multiple Layer 3 protocols to use the same network interface and media." },
+        { question: "What is a characteristic of the LLC sublayer?", options: ["It places information in the frame that allows multiple Layer 3 protocols to use the same network interface and media.", "It provides the logical addressing required that identifies the device.", "It is responsible for media access control.", "It provides delimitation of data according to the physical signaling requirements of the medium."], answer: "It places information in the frame that allows multiple Layer 3 protocols to use the same network interface and media." },
         // 11
         { question: "What is the purpose of the Cisco IOS command “show ip interface brief”?", answers: ["to display the routing table", "to display the ARP table", "to display the status of the router interfaces and their IP addresses", "to display the MAC address table"], correct: "to display the status of the router interfaces and their IP addresses" },
         // 48
